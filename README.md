@@ -9,9 +9,9 @@
    
 #### Set Krungsri-Online Variable
 
-       $username = "";
-       $password = "";
-       $account_number = '0481696934';
+       $username = "test";
+       $password = "test";
+       $account_number = '0654696934';
     
 
 #### Usage
